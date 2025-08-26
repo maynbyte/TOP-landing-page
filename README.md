@@ -1,4 +1,4 @@
-# One Piece Landing Page
+# TOP | Landing Page Project
 
 A responsive landing page created as part of The Odin Project curriculum, themed around the popular manga/anime series One Piece.
 
